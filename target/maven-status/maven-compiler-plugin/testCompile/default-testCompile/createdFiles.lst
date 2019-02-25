@@ -1,0 +1,4 @@
+com\house\runner\mytestrunner.class
+com\house\stepDefs\stepdefWebsite.class
+com\house\stepDefs\registration.class
+com\house\stepDefs\checkExample.class
