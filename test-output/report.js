@@ -97,21 +97,21 @@ formatter.match({
   "location": "registration.i_am_on_home_page()"
 });
 formatter.result({
-  "duration": 109239380,
+  "duration": 110273254,
   "status": "passed"
 });
 formatter.match({
   "location": "registration.i_enter_ndfdf_and_kris()"
 });
 formatter.result({
-  "duration": 61003,
+  "duration": 47956,
   "status": "passed"
 });
 formatter.match({
   "location": "registration.i_would_have_registered()"
 });
 formatter.result({
-  "duration": 48308,
+  "duration": 45487,
   "status": "passed"
 });
 });

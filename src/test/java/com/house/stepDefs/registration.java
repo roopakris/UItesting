@@ -60,6 +60,8 @@ public class registration {
 
     @Then("^I would have registered$")
     public void i_would_have_registered() throws Throwable {
+
+        System.out.println("whohooo I am in the world of Jenkins");
         // Write code here that turns the phrase above into concrete actions
         System.out.println("I am in sc2 Then");
 
